@@ -1,1 +1,1 @@
-git reads
+This is a gsoftware engineering course
